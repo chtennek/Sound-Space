@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a7e66220a985443bf4ca3904b9746b, type: 3}
+  m_Name: Tutorial Dialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - actor: {fileID: 0}
+    text: 
+    playTime: 4
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: Welcome to Sound Space!
+    playTime: 4
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: In Sound Space, the power of music drives your ship.
+    playTime: 6
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: Fire your weapon to the <color=red>beat</color> (Space, K).
+    playTime: 7.03
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: Move to the <color=#0030ffff>offbeat</color> (A/D, Left/Right).
+    playTime: 7.03
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: Follow the beat! Watch your ship's color.
+    playTime: 7.03
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: If your <color=#808000ff>life</color> hits zero, the game ends.
+    playTime: 7.03
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: If a lane <color=#800000ff>piles up</color> with notes, the game also ends.
+    playTime: 7.03
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: Good luck!
+    playTime: 7.03
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: 
+    playTime: 95
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: Not bad! Let's take it up a notch.
+    playTime: 10
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: 
+    playTime: 230
+    audio: {fileID: 0}
+  - actor: {fileID: 0}
+    text: You win! Thanks for playing! Made by @chtennek
+    playTime: 9999
+    audio: {fileID: 0}

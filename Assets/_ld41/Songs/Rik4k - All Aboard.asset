@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1e070664fc879b488702eda6111ef3f, type: 3}
+  m_Name: Rik4k - All Aboard
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 9eef572950d5cd94c84b53cf72626131, type: 3}
+  bpm: 128
+  offset: 2.2
+  startMove: 8
+  patterns:
+  - {fileID: 11400000, guid: 42e41266771a6b5488f4a3637e503144, type: 2}
+  - {fileID: 11400000, guid: b65945e98a7aca64a9f572dd17323e10, type: 2}
+  - {fileID: 11400000, guid: d1519d2b7dd1ecb42bdc076eb4824235, type: 2}
+  - {fileID: 11400000, guid: 580e1ffc8430a03499c0f64faf95a76e, type: 2}
+  - {fileID: 11400000, guid: 21bae76914f1cd9409378f2dbadad4e3, type: 2}
+  - {fileID: 11400000, guid: c0ba57c9743a59641950511987717c58, type: 2}
+  - {fileID: 11400000, guid: 522a25516d48d844ca9d0d68d7399da5, type: 2}
+  - {fileID: 11400000, guid: e850c8c4dc49fd04f98c13408dc55bec, type: 2}
+  - {fileID: 11400000, guid: e7c289e9a1e63d34abfbbdf53f90ff7d, type: 2}
+  - {fileID: 11400000, guid: 554ad065939cac043a43b174576c538d, type: 2}
+  - {fileID: 11400000, guid: 6662fbe15deca454c8afe1f23950c425, type: 2}
+  - {fileID: 11400000, guid: efc446ef57f30584cb53a31446e1cf2e, type: 2}
+  - {fileID: 11400000, guid: 192ca333896a4ef41b9779749d118751, type: 2}
+  startBeat: 80
+  beatIncrement: 2
+  beats:
+  - 80
+  - 88
+  - 96
+  - 100
+  - 104
+  - 108
+  - 112
+  - 116
+  doubles:
+  - 191
+  - 447
